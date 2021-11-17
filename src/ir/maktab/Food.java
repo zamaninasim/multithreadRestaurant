@@ -9,11 +9,4 @@ public class Food {
         this.count = count;
     }
 
-    @Override
-    public String toString() {
-        return "Food{" +
-                "name='" + name + '\'' +
-                ", count=" + count +
-                '}';
-    }
 }
